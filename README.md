@@ -23,4 +23,7 @@ Ordem do Desenvolvimento
 
 Para Baixar dependecias 
 - go mod tidy
+
+Para rodar testes
+- go test ./...
   
