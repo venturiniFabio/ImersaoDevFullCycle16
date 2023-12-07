@@ -20,4 +20,7 @@ Ordem do Desenvolvimento
 - Desenvolvimento do backend(Nest.js) do Home Broker
 - Desenvolvimento do frontend(Next.js) do Home Broker
 - Integração do Frontend e Backend
+
+Para Baixar dependecias 
+- go mod tidy
   
